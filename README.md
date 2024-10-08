@@ -9,7 +9,7 @@
 <img src="./IMAGENS/FOTO_6.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
-Este projeto consiste em um sistema de autenticação simples, desenvolvido em **Go** (Golang), com suporte para **cadastro** e **login** de usuários utilizando um banco de dados **MySQL**. A interface é responsiva e conta com um **tema escuro**, utilizando HTML, CSS e Bootstrap. O sistema inclui:
+Este projeto consiste em um sistema de autenticação simples, desenvolvido em **Go** (Golang), com suporte para **cadastro** e **login** de usuários utilizando um banco de dados **MySQL**. A interface é responsiva e conta com um **tema escuro**, utilizando CSS. O sistema inclui:
 
 - **Página de cadastro**: Onde novos usuários podem se cadastrar inserindo seu e-mail e senha.
 - **Página de login**: Onde usuários cadastrados podem autenticar suas credenciais.
@@ -58,7 +58,7 @@ Este projeto consiste em um sistema de autenticação simples, desenvolvido em *
    - **Cadastro**:
       - Para realizar um cadastro, clique em **CADASTRO**, preencha o formulário e submeta.
       - Preencha o formulário com um e-mail e senha.
-      - Se o e-mail não estiver registrado, o usuário será salvo no banco de dados e redirecionado para a página de login.
+      - Se o e-mail não estiver registrado, o usuário será salvo no banco de dados.
       
    - **Login**:
       - Para realizar o login, clique em **LOGIN**, preencha o formulário e submeta.
